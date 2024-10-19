@@ -1,0 +1,20 @@
+#banner{
+    background-image: url('/Profile/img/banner.jpg');
+	height: 128px;
+	width: 100%;
+	
+}
+#logo{
+    padding-top: 13px;
+    float: left;
+    padding-left: 50px;
+}
+#text{
+    float: left;
+    margin-left: 20px;
+    margin-top: 30px;
+    
+}
+.body{
+    padding-top: 10px;
+}

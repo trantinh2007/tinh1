@@ -1,0 +1,15 @@
+body{
+    background-image: url('/Profile/img/hinh-anh-one-piece-ace-820x461.jpg');
+}
+.head{
+    background-image: url('/Profile/img/bg.jpeg');
+    width: 500px;
+    height: 550px;
+    margin: auto;
+    padding-top: 10px;
+    border-radius: 50px;
+    border: 2px double #A66E38;
+
+}
+
+
